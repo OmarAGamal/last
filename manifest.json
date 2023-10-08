@@ -1,1 +1,9 @@
-
+{
+  "domain": "last",
+  "name": "Last Sensor",
+  "codeowners": [],
+  "dependencies": [],
+  "iot_class": "assumed_state",
+  "requirements": [],
+  "version": "0.1.0"
+}
